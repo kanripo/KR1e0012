@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋釋例
-#+DATE: 2015-09-23 09:39:22
-#+PROPERTY: JUAN 15
+#+DATE: 2015-08-24 22:12:39.691922
+#+PROPERTY: ID KR1e0012
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十五
 <pb:KR1e0012_WYG_015-1a>¶
 欽定四庫全書¶
 　春秋釋例巻十五¶
@@ -567,4 +569,3 @@
 　(成元年正義引釋例此案正義云宣元年夫人婦姜/至自齊即穆姜也至  始十八年耳二年𫝊稱公衡)¶
 　(為質於椘公衡成公子也既堪為質則其年/已長成公若是穆姜之子未必有成長之男)¶
 　春秋釋例巻十五¶
-

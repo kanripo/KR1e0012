@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋釋例
-#+DATE: 2015-09-23 09:39:22
-#+PROPERTY: JUAN 9
+#+DATE: 2015-08-24 22:12:39.539393
+#+PROPERTY: ID KR1e0012
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷九
 <pb:KR1e0012_WYG_009-1a>¶
 欽定四庫全書¶
 　春秋釋例卷九¶
@@ -1046,4 +1048,3 @@
 　宻須姞姓(案此條永樂大典闕從程公/説春秋分記所引釋例補入)¶
 　¶
 　春秋釋例卷九¶
-

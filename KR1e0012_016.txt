@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋釋例
-#+DATE: 2015-09-23 09:39:22
-#+PROPERTY: JUAN 16
+#+DATE: 2015-08-24 22:12:39.710763
+#+PROPERTY: ID KR1e0012
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 後序
 <pb:KR1e0012_WYG_016-1a>¶
 春秋釋例後序¶
 春秋左氏漢初本無傳者劉子駿始建明之欲立學官¶
@@ -28,4 +30,3 @@
 生天人三䇿相為上下蕡亦自擬董生且曰昔董仲舒¶
 為漢武帝言之未盡者今臣復為陛下言之壯哉蕡乎¶
 至為此序獨不類唐文之衰至此極矣呉萊序¶
-
